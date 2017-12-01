@@ -32,5 +32,7 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 Here are some people doing the same challenge:
 
 * [aaomidi](https://github.com/aaomidi/Advent-of-Code-2017)
+* [DarkSeraphim](https://github.com/DarkSeraphim/Advent-of-Code-2017)
+* [bo0tzz](https://github.com/bo0tzz/Advent-of-Code-2017)
 * [nickrobson](https://github.com/nickrobson/adventofcode-2017)
 * [Vilsol](https://github.com/Vilsol/AdventOfCode2017/)
