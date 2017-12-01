@@ -35,4 +35,5 @@ Here are some people doing the same challenge:
 * [DarkSeraphim](https://github.com/DarkSeraphim/Advent-of-Code-2017)
 * [bo0tzz](https://github.com/bo0tzz/Advent-of-Code-2017)
 * [nickrobson](https://github.com/nickrobson/adventofcode-2017)
+* [rbrick](https://github.com/rbrick/Advent-Of-Code-2017)
 * [Vilsol](https://github.com/Vilsol/AdventOfCode2017/)
