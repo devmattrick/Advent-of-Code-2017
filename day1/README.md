@@ -1,5 +1,5 @@
 # Day 1 - Perl
-> Total time spent: ~29m 2s
+> Total time spent: ~39m 18s
 
 ## Resources Used
 * [Learn X in Y Minutes](https://learnxinyminutes.com/docs/perl/)
