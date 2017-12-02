@@ -3,7 +3,7 @@ My attempts at the Advent of Code. The extra challenge is that all of the challe
 
 ## Language List
 * **Day 1:** Perl
-* **Day 2:** Solidity
+* **Day 2:** ~~Solidity~~ JavaScript
 * **Day 3:** Ruby
 * **Day 4:** Erlang
 * **Day 5:** JS
